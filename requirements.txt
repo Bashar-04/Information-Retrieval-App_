@@ -1,0 +1,6 @@
+PyMuPDF
+numpy
+customtkinter
+scikit-learn
+rank_bm25
+nltk
